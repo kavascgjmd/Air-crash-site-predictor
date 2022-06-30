@@ -1,0 +1,4 @@
+Number Theory
+
+-https://www.spoj.com/problems/BSPRIME/
+-https://www.spoj.com/problems/PRIMES2/
